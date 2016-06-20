@@ -9,4 +9,5 @@ altura=gets.chomp!
 
 puts "Voce digitou, Peso: #{peso} Altura: #{altura}"
 
-
+puts "Novo codigo!"
+puts "Novo Teste de codigo"
