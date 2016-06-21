@@ -1,2 +1,3 @@
+###Codigo para calcular media de estudantes
 
-Learning about github
+Utilizando o codigo:
